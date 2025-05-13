@@ -15,6 +15,8 @@ namespace calculator
 
             Console.WriteLine("choose your operation (+)");
             Console.ReadLine();
+            cout << "Forked by Nimra - 22SE123 - Software Engineering";
+
         }
     }
 }
